@@ -1,4 +1,4 @@
-# Fizz Buzz - For smart programmers
+# Fibonacci - For smart programmers
 So you're in a job interview, and the interviewer asks you to write a '[Fibonacci number generator](https://en.wikipedia.org/wiki/Fibonacci_number)'. What would a good developer do? A novice developer writes 80 lines of code, an experienced developer would write 20, but you? You're smart. You install it using go get, and write five lines of code.
 
 ## Installation
